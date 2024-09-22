@@ -55,10 +55,11 @@ well-architected software engineering solutions.
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-### 📱 Mobile
+### 📱 Mobile Technologies
 
 ![NativeScript](https://img.shields.io/badge/NativeScript-3655FF?style=flat&logo=NativeScript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
 
 ### 🧪 Testing
 
