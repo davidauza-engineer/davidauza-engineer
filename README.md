@@ -17,7 +17,7 @@ well-architected software engineering solutions.
 
 ## 💻 Tech Stack
 
-### 🛠️ DevOps & Infrastructure
+### 🛠️ DevSecOps, MLOps & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)
@@ -25,6 +25,7 @@ well-architected software engineering solutions.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
 
 ### 🔧 Backend Technologies
 
@@ -41,7 +42,7 @@ well-architected software engineering solutions.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -53,26 +54,55 @@ well-architected software engineering solutions.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white)
 
 ### 📱 Mobile Technologies
 
 ![NativeScript](https://img.shields.io/badge/NativeScript-3655FF?style=flat&logo=NativeScript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2E3A59?style=flat&logo=supabase&logoColor=3ECF8E)
+![Fastlane](https://img.shields.io/badge/Fastlane-4053D6?style=flat&logo=fastlane&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
 ### 🧪 Testing
 
 ![RSpec](https://img.shields.io/badge/RSpec-FF0000?style=flat&logo=ruby&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
-### 📊 Data Analysis
+### 📊 Data Analysis & Machine Learning
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=.net&logoColor=white)
+
+### 🤖 AI & Productivity
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-5C5CFF?style=flat&logo=github&logoColor=white)
+![JetBrains AI Assistant](https://img.shields.io/badge/JetBrains_AI_Assistant-000000?style=flat&logo=jetbrains&logoColor=white)
+
+### ⚙️ Development Tools
+
+![RubyMine](https://img.shields.io/badge/RubyMine-FF007F?style=flat&logo=rubymine&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-00A4FF?style=flat&logo=webstorm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-8700D6?style=flat&logo=datagrip&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -82,11 +112,11 @@ well-architected software engineering solutions.
 
 ## 🔭 Current Projects
 
-- [Euro 2024](https://github.com/davidauza-engineer/euro-2024) - Analytics for
-  2024 UEFA European Football Championship.
 - [Football Analytics](https://github.com/davidauza-engineer/football-analytics) -
   Learning project available
   at [Hyperskill](https://hyperskill.org/projects/480) ⚽
+- [Euro 2024](https://github.com/davidauza-engineer/euro-2024) - Analytics for
+  2024 UEFA European Football Championship.
 
 ## 🏆 Trophies
 
