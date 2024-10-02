@@ -27,10 +27,12 @@ well-architected software engineering solutions.
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=flat&logo=nx&logoColor=white)
+![xplat](https://img.shields.io/badge/xplat-FF4081?style=flat&logo=xing&logoColor=white)
 
 ### 🔧 Backend Technologies
 
@@ -38,6 +40,11 @@ well-architected software engineering solutions.
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=Serverless&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=amazonapigateway&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Open API](https://img.shields.io/badge/Open%20API-85EA2D?style=flat&logo=openapiinitiative&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -52,7 +59,7 @@ well-architected software engineering solutions.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -87,6 +94,12 @@ well-architected software engineering solutions.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+
+### 🖥️ Desktop Technologies
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
 ### 🎮 Game Development
 
