@@ -42,6 +42,7 @@ well-architected software engineering solutions.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=amazonapigateway&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-DC382D?style=flat&logo=sidekiq&logoColor=white)
 ![Open API](https://img.shields.io/badge/Open%20API-85EA2D?style=flat&logo=openapiinitiative&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -55,6 +56,8 @@ well-architected software engineering solutions.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-B7280F?style=flat&logo=ngrx&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -67,6 +70,7 @@ well-architected software engineering solutions.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white)
 
 ### 📱 Mobile Technologies
@@ -75,6 +79,8 @@ well-architected software engineering solutions.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-2E3A59?style=flat&logo=supabase&logoColor=3ECF8E)
 ![Fastlane](https://img.shields.io/badge/Fastlane-4053D6?style=flat&logo=fastlane&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
