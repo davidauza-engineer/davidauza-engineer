@@ -131,8 +131,6 @@ well-architected software engineering solutions.
 
 ## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidauza-engineer&layout=compact&theme=tokyonight&hide=java,html,css,objective-c,scss,game+maker+language,rich+text+format,gherkin,coffeescript)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=davidauza-engineer&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 Trophies
