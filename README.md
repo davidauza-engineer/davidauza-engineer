@@ -135,14 +135,6 @@ well-architected software engineering solutions.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davidauza-engineer&theme=dark)](https://git.io/streak-stats)
 
-## 🔭 Current Projects
-
-- [Football Analytics](https://github.com/davidauza-engineer/football-analytics) -
-  Learning project available
-  at [Hyperskill](https://hyperskill.org/projects/480) ⚽
-- [Euro 2024](https://github.com/davidauza-engineer/euro-2024) - Analytics for
-  2024 UEFA European Football Championship.
-
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidauza-engineer&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
