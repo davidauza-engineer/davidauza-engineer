@@ -1,5 +1,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=davidauza-engineer&color=green)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 # Hi there, I'm David 👋
 
