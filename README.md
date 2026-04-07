@@ -139,7 +139,3 @@ well-architected software engineering solutions.
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davidauza-engineer&theme=dark)](https://git.io/streak-stats)
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidauza-engineer&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
