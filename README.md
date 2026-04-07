@@ -20,6 +20,10 @@ well-architected software engineering solutions.
 
 ✉️ [davidauza01@gmail.com](mailto:davidauza01@gmail.com)
 
+## 📈 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=davidauza-engineer&theme=dark)](https://git.io/streak-stats)
+
 ## 💻 Tech Stack
 
 ### 🛠️ DevSecOps, MLOps & Infrastructure
@@ -135,7 +139,3 @@ well-architected software engineering solutions.
 ![DataGrip](https://img.shields.io/badge/DataGrip-8700D6?style=flat&logo=datagrip&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=davidauza-engineer&theme=dark)](https://git.io/streak-stats)
