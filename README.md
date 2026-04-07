@@ -8,10 +8,15 @@
 👨‍💻 I'm a Senior Full-Stack Engineer, passionate about building well-crafted and
 well-architected software engineering solutions.
 
-💼 7+ years of experience as a Software Engineer.
+💼 8+ years of experience as a Software Engineer.
 
-<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/gb.png" alt="English" width="18"/> English
-<img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/es.png" alt="Spanish" width="18"/> Spanish
+<div style="display: flex;">
+  <img src="https://flagcdn.com/w40/us.png" width="18"/> English  
+  <img src="https://flagcdn.com/w40/co.png" width="18"/> Spanish  
+  <img src="https://flagcdn.com/w40/pl.png" width="18"/> Polish  
+  <img src="https://flagcdn.com/w40/jp.png" width="18"/> Japanese  
+</div>
+<br>
 
 ✉️ [davidauza01@gmail.com](mailto:davidauza01@gmail.com)
 
@@ -55,6 +60,7 @@ well-architected software engineering solutions.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-FF5F00?style=flat&logo=rubyonrails&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-B7280F?style=flat&logo=ngrx&logoColor=white)
@@ -76,14 +82,15 @@ well-architected software engineering solutions.
 ### 📱 Mobile Technologies
 
 ![NativeScript](https://img.shields.io/badge/NativeScript-3655FF?style=flat&logo=NativeScript&logoColor=white)
+![Hotwire Native](https://img.shields.io/badge/Hotwire%20Native-FF5F00?style=flat&logo=rubyonrails&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-2E3A59?style=flat&logo=supabase&logoColor=3ECF8E)
 ![Fastlane](https://img.shields.io/badge/Fastlane-4053D6?style=flat&logo=fastlane&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 
 ### 🧪 Testing
 
