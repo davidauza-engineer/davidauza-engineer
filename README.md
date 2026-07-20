@@ -5,7 +5,7 @@
 👨‍💻 I'm a Senior Software Engineer, passionate about building well-crafted and
 well-architected engineering solutions.
 
-💼 8+ years of experience as a Software Engineer.
+💼 8+ years of experience.
 
 <div style="display: flex;">
   <img src="https://flagcdn.com/w40/us.png" width="18"/> English  
