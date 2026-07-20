@@ -1,12 +1,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=davidauza-engineer&color=green)
 
-# Hi there, I'm David 👋
+# I'm David
 
-> 💬 "Imagination is more important than knowledge, but knowledge empowers
-> imagination." - Albert Einstein
-
-👨‍💻 I'm a Senior Full-Stack Engineer, passionate about building well-crafted and
-well-architected software engineering solutions.
+👨‍💻 I'm a Senior Software Engineer, passionate about building well-crafted and
+well-architected engineering solutions.
 
 💼 8+ years of experience as a Software Engineer.
 
