@@ -2,7 +2,7 @@
 
 # I'm David
 
-👨‍💻 I'm a Senior Software Engineer, passionate about building well-crafted and
+Senior Software Engineer, passionate about building well-crafted and
 well-architected engineering solutions.
 
 💼 8+ years of experience.
@@ -10,8 +10,7 @@ well-architected engineering solutions.
 <div style="display: flex;">
   <img src="https://flagcdn.com/w40/us.png" width="18"/> English  
   <img src="https://flagcdn.com/w40/co.png" width="18"/> Spanish  
-  <img src="https://flagcdn.com/w40/pl.png" width="18"/> Polish  
-  <img src="https://flagcdn.com/w40/jp.png" width="18"/> Japanese  
+  <img src="https://flagcdn.com/w40/pl.png" width="18"/> Polish
 </div>
 <br>
 
